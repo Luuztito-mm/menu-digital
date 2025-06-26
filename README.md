@@ -23,8 +23,10 @@ La página incluye:
   - Tamaños y alineaciones
   - Estilo visual armonioso
 
-## 🚀 Publicado en GitHub Pages
+## 📎 Enlaces
 
-🔗 [Ver menú online](https://luuztito-mm.github.io/menu-digital/)
+- 🔗 **Repositorio en GitHub:**  
+  [https://github.com/Luuztito-mm/menu-digital](https://github.com/Luuztito-mm/menu-digital)
 
----
+- 🌐 **Ver online en GitHub Pages:**  
+  [https://luuztito-mm.github.io/menu-digital/](https://luuztito-mm.github.io/menu-digital/)
